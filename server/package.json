@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node don.js",     
+    "dev": "nodemon don.js"      
+  }
+}
+
+
